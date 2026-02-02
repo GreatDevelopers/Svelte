@@ -29,3 +29,11 @@ project.inlang/cache/
 
 *storybook.log
 storybook-static
+
+# VS Code user-specific and generated files
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/mcp.json
